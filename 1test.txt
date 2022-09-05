@@ -3,7 +3,14 @@ hi
 2nd update
 4th update
 
+<<<<<<< HEAD
 
 
 
 5th upadte
+6th update
+=======
+3rd upadte
+>>>>>>> 5eaf6d6b3e6c12714673120e1103ca79b33fa5f5
+
+
